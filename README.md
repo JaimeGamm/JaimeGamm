@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">
 	
 Hola, Soy Jaime Saenz!
@@ -7,7 +10,7 @@ Hola, Soy Jaime Saenz!
 </h1>
 <p align="center">
 	<a href="https://github.com/JaimeGamm">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+		<img src="https://komarev.com/ghpvc/?username=jaimegamm&label=Profile%20views&color=0e75b6&style=flat" alt="jaimegamm" />
 	</a>
 	<a href="https://github.com/JaimeGamm">
 		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
